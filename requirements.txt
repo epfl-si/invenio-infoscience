@@ -23,4 +23,4 @@ rauth==0.6.2
 unidecode==0.04.14
 python-openid==2.2.5
 qrcode==4.0.4
-pillow==2.3.0
+pillow==12.2.0
